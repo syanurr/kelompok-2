@@ -35,10 +35,10 @@ def halaman_utama():
 
 def informasi():
     st.write('**PENGERTIAN**')
-    st.write("Normalitas adalah ukuran yang menunjukkan besaran konsentrasi pada berat ekuivalen setara dalam gram per larutan. Normalitas juga dapat didefinisikan sebagai jumlah mol ekuivalen dari suatu zat perliter larutan. biasanya kita menghitung normalitas menggunakan rumus pengenceran larutan, maka rumus normalitas yang digunakan adalah: N1.V1=N2.V2.")
-    st.write("Standar deviasi adalah ukuran statistik yang menunjukkan seberapa tersebar atau bervariasi suatu kumpulan data dari nilai rata-ratanya. Semakin besar nilai standar deviasi, maka semakin besar pula penyebaran atau variasi data. Sebaliknya, semakin kecil nilai standar deviasi, maka semakin kecil pula penyebaran atau variasi data.")
-    st.write(" %RSD adalah nilai absolut dari koefisien variasi. Hal ini sering dinyatakan sebagai persentase. Sebuah istilah serupa yang kadang-kadang digunakan adalah varians relatif yang merupakan kuadrat dari koefisien variasi. Standar deviasi relatif banyak digunakan dalam kimia analitik untuk menyatakan presisi.")
-    st.write("**INFORMASI BOBOT EKIVALEN**")
+    st.write("**Normalitas** adalah ukuran yang menunjukkan besaran konsentrasi pada berat ekuivalen setara dalam gram per larutan. Normalitas juga dapat didefinisikan sebagai jumlah mol ekuivalen dari suatu zat perliter larutan. biasanya kita menghitung normalitas menggunakan rumus pengenceran larutan, maka rumus normalitas yang digunakan adalah: N1.V1=N2.V2.")
+    st.write("**Standar deviasi** adalah ukuran statistik yang menunjukkan seberapa tersebar atau bervariasi suatu kumpulan data dari nilai rata-ratanya. Semakin besar nilai standar deviasi, maka semakin besar pula penyebaran atau variasi data. Sebaliknya, semakin kecil nilai standar deviasi, maka semakin kecil pula penyebaran atau variasi data.")
+    st.write(" **% RSD** adalah nilai absolut dari koefisien variasi. Hal ini sering dinyatakan sebagai persentase. Sebuah istilah serupa yang kadang-kadang digunakan adalah varians relatif yang merupakan kuadrat dari koefisien variasi. Standar deviasi relatif banyak digunakan dalam kimia analitik untuk menyatakan presisi.")
+    st.write("**⚛️INFORMASI BOBOT EKIVALEN⚛️**")
     st.write("Bobot Ekivalen H₂C₂O₄.2H₂O(Asam Oksalat) = 63 mg/mgrek")
     st.write("Bobot Ekivalen Na₂B₄O₇.10H₂O(Boraks) = 191 mg/mgrek")
     st.write("Bobot Ekivalen K₂Cr₂O₇(Kalium Dikromat) = 49 mg/mgrek")
